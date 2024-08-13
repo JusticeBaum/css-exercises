@@ -1,0 +1,20 @@
+.Odd {
+    background-color: palevioletred;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+/* This will inherit the .Odd styling and extend it  */
+.Odd#three {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
